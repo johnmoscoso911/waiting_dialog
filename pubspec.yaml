@@ -2,7 +2,7 @@ name: waiting_dialog
 description: A waiting dialog.
 version: 0.0.1
 author: John Moscoso <johnmoscoso911@gmail.com>
-homepage: https://www.alcazardevelopers.com
+homepage: https://github.com/johnmoscoso911/waiting_dialog
 
 environment:
   sdk: ">=2.1.0 <3.0.0"
