@@ -57,7 +57,10 @@ class _MyAppState extends State<MyApp> {
         body: Center(
           child: Row(
             mainAxisAlignment: MainAxisAlignment.spaceEvenly,
-            children: <Widget>[button('One button'), button()],
+            children: <Widget>[
+              button('Button with caption'),
+              button('Another button')
+            ],
           ),
         ),
       ),
