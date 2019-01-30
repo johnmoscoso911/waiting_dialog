@@ -37,7 +37,7 @@ Widget button([String caption]) {
 		);
 	}
 ~~~
-![screenshot](../images/Screenshot_1548853779.png)
+![alt image](https://raw.githubusercontent.com/johnmoscoso911/waiting_dialog/master/images/Screenshot_1548853779.png)
 ### Contenido del widget
 ~~~dart
 var _key = GlobalKey<NavigatorState>();
@@ -66,4 +66,4 @@ Widget build(BuildContext context) {
 ~~~
 ### Resultado
 [Dialog](https://docs.flutter.io/flutter/material/Dialog-class.html) mostrando un [CircularProgressIndicator](https://docs.flutter.io/flutter/material/CircularProgressIndicator-class.html) mientras procesas una petición.
-![screenshot](../images/Screenshot_1548853785.png)
+![alt image](https://raw.githubusercontent.com/johnmoscoso911/waiting_dialog/master/images/Screenshot_1548853785.png)
